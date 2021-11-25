@@ -1,5 +1,7 @@
 # Survive In The Refrigerator
 B877011 노동우
+#### 작품 유튜브 링크
+https://youtu.be/f6-STcBca28
 
 # 1. 게임소개
 
